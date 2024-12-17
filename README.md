@@ -196,5 +196,5 @@ If you'd like to contribute, feel free to create a pull request. Make sure to fo
 
 For any inquiries or issues, you can reach out via:
 
-- **Email**: samirsudhir301$gmail.com  
+- **Email**: samirsudhir30@gmail.com  
 - **GitHub**: [Samir-Sudhir](https://github.com/samir-sudhir)  
